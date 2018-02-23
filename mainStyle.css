@@ -66,11 +66,12 @@ color: #ff3300;
 }
 
 .button{
-  width: 135px;
+  width: 300px;
   display: block;
   margin-left: auto;
   margin-right: auto; 
-  color: #fff;
+  color: black;
+  background-color: gray;
   text-align: center;
   
 }
@@ -90,3 +91,11 @@ color: #ff3300;
 .background{ 
   background-color: #000;
 }
+
+/*ads*/
+.a-ads{
+  display:block;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
